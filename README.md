@@ -8,4 +8,6 @@ https://www.youtube.com/watch?v=O1x7JC79feA # Geckodriver executable needs to be
 
 Make sure the site is in english!!!
 
+https://help.instagram.com/111923612310997
+
 You need to accept the terms (cookies) by yourself (You have 4 secs to do it). Feel free to contact me for any improvement idea!
