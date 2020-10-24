@@ -3,7 +3,7 @@
 """
 Created on 2020
 
-@author: ricardo
+@author: ricardo.de.matos
 """
 
 from selenium import webdriver
